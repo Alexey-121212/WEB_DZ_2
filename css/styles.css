@@ -4,3 +4,8 @@ p {
     font-size: medium;
     font-weight: bold;
   }
+
+h3 {
+    text-align: center;
+    color: blueviolet;
+   }
